@@ -1,0 +1,34 @@
+cd = change directory
+mkdir make a new directory 
+cat open file 
+cat > create new file and modify 
+Echo > create new file
+
+Git init create a new git directory 
+Git status 
+
+Git add/rm    add to stage or remove
+
+Git restore --staged file    to unstage 
+
+Git commit -m  "message" commit staged files to local repository 
+
+Git Remote add origin https://git......   add the default remote repository link
+
+Origin é só um apelido, podendo usar qualquer outro
+
+Git Remote -V  show
+
+Git push Origin Master 
+Push  send the local repository to the Remote repository 
+Origin the link nickname 
+Master the branch
+
+Git pull Origin master 
+Push send the Remote repository to the local repository 
+
+Origin the link nickname 
+
+Master the branch
+
+
